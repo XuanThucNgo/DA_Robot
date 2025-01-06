@@ -1,0 +1,7 @@
+../ENCODER/ENCODER.c:11:6:Encoder_Init	1
+../ENCODER/ENCODER.c:18:6:Encoder_GetPulse	4
+../ENCODER/ENCODER.c:35:7:Encoder_GetPulse_return	4
+../ENCODER/ENCODER.c:54:7:Encoder_GetSpeed	3
+../ENCODER/ENCODER.c:81:7:Encoder_GetRound	3
+../ENCODER/ENCODER.c:96:6:Encoder_ResetCount	1
+../ENCODER/ENCODER.c:105:7:Encoder_GetVelFil	1
